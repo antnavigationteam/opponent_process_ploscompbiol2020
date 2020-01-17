@@ -1,0 +1,21 @@
+# Pycharm project
+.idea/
+
+# Python cache
+/__pycache__/
+
+# macOS cache files
+.DS_Store
+._DS_Store
+
+# Windows cache files
+Thumbs.db
+
+# Compiled Python modules
+*.pyc
+
+# Setuptools distribution folder
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools
+/*.egg-info
