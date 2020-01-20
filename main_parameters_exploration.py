@@ -2,8 +2,8 @@ from pathlib import Path
 import numpy as np
 import matplotlib.pyplot as plt
 
-import opponent_process as op
-from opponent_process.utils import pol2cart, initialize_simulation
+import opponent_process_ploscompbiol2020 as op
+from opponent_process_ploscompbiol2020.utils import pol2cart, initialize_simulation
 
 
 # ----------------------------------------------------------------------------------------------------------------------

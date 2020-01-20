@@ -6,7 +6,7 @@ def readme():
         return f.read()
 
 
-setup(name='opponent_process',
+setup(name='opponent_process_ploscompbiol2020',
       version='1.0',
       description='Visual opponent process for navigation',
       long_description=readme(),

@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 
-from opponent_process.utils import pol2cart, subsample_vertices
+from opponent_process_ploscompbiol2020.utils import pol2cart, subsample_vertices
 
 
 def pathangles(theta, X, Y, queue_length=1.0, jump=1, color='k', figsize=(16, 6)):

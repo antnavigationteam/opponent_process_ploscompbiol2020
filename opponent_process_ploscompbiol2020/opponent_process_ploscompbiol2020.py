@@ -2,7 +2,7 @@ import numpy as np
 from itertools import repeat, cycle
 from skimage.transform import resize
 
-from antteamutilities import pol2cart, circ_r, circmean
+from opponent_process_ploscompbiol2020.utils import pol2cart, circ_r, circmean
 
 
 def get_views_resized(x, y, z, th, simulation_engine, resolution=360):
