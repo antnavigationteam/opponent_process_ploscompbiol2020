@@ -1,1 +1,1 @@
-from opponent_process.opponent_process import *
+from opponent_process_ploscompbiol2020.opponent_process import *
